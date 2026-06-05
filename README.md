@@ -22,8 +22,8 @@
 ## Prerequisites
 
 1. Sign up at [cadlens.co](https://cadlens.co) and create an account
-2. Go to the dashboard and generate an API key (starts with `cad_`)
-3. Export your key: `export CADLENS_API_KEY=cad_your_key_here`
+2. Go to the dashboard and generate an API key (starts with `cadl_`)
+3. Export your key: `export CADLENS_API_KEY=cadl_your_key_here`
 
 ---
 

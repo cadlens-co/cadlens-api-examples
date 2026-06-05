@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Cadlens API — upload a CAD file, poll for completion, retrieve result
 # Docs: https://cadlens.co/docs
-# Usage: CADLENS_API_KEY=cad_xxx ./upload.sh drawing.dwg
+# Usage: CADLENS_API_KEY=cadl_xxx ./upload.sh drawing.dwg
 
 set -euo pipefail
 

@@ -2,7 +2,7 @@
 # Cadlens API — upload with webhook callback
 # Cadlens POSTs job completion events to your webhookUrl instead of you polling.
 # Docs: https://cadlens.co/docs
-# Usage: CADLENS_API_KEY=cad_xxx WEBHOOK_URL=https://your-server.com/hook ./webhook.sh drawing.dwg
+# Usage: CADLENS_API_KEY=cadl_xxx WEBHOOK_URL=https://your-server.com/hook ./webhook.sh drawing.dwg
 
 set -euo pipefail
 

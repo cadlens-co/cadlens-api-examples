@@ -6,7 +6,7 @@ Docs: https://cadlens.co/docs
 
 Usage:
     pip install requests
-    CADLENS_API_KEY=cad_xxx python upload.py drawing.dwg
+    CADLENS_API_KEY=cadl_xxx python upload.py drawing.dwg
 """
 
 import os
